@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Cloud Storage</title>
+</head>
+<body>
+
+    <video width="400" height="300" controls>
+        <source src="https://drive.google.com/uc?export=download&id=1SyHj1E93mBLPbI5vtjzHo1UNqWzll9Dh" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
+    
+    <iframe src="https://drive.google.com/file/d/1SyHj1E93mBLPbI5vtjzHo1UNqWzll9Dh/preview" width="640" height="480" allow="autoplay" aria-controls="true"></iframe>
+</body>
+</html>
